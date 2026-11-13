@@ -1,0 +1,398 @@
+{
+  "updated": "2026-11-13 01:12 UTC",
+  "method": "Average tone of recent headlines. -40\u00b0C is the most downbeat mix and 80\u00b0C is the most upbeat.",
+  "sectors": {
+    "Residential": {
+      "temperature": 20,
+      "headlineCount": 18,
+      "headlines": [
+        {
+          "title": "Latest UK housing starts and completions figures",
+          "source": "BCIS",
+          "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNYWJjV0FZU25JZ2o4cTJhY1RJNDcxa1N4RzI3LVJPc0ZCMld3anpqb1lxZmpFTVVQTk9RRWVTSzRTZ3FiS1hmTkF6MXNLc3k5eThtMDJ1MzRYaWZuOVVhVU8zaWJnMmMzRV9DNWttMHdQa1FGeDR4ZzJkR0NUcE4tbWVuUQ?oc=5",
+          "published": "Tue, 27 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "TDUK Global Markets Conference highlights UK housebuilding challenges",
+          "source": "Timber Trades Journal",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa20zWnFtalNtY0llNDQwZ29MVG5DUUhEZVhUTzVoV3dfSFFwUjhWNW9GLVlWODhXSmJmRDhaLTFJaEJneDh2cU5VT1p3SVY4Z1MzS2dXZGV1emtCTFF2dDNyQUE0UW9HVnZQS2N4TGVsak56dEJpcEg2d2l3dm9HTGFtU2tFV2k3MHkzQmdaaGl4d3pPWmtBaTlfeS1VZU82YlhF?oc=5",
+          "published": "Tue, 10 Nov 2026 13:46:17 GMT"
+        },
+        {
+          "title": "Housebuilding slump drags down UK construction activity, PMI shows",
+          "source": "Reuters",
+          "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNc0hxZnlKdjJtQ1F0cHpQVXpwM1hiUm5zUkJZUkFEVnM0ZWV4U0hEbXRDa1RnQ08xeFQ5TkNXMzBScXFhRnE2YVlxXzAwSDN6T0RTZ2JpWFFJeWVyYWt4OVkwODItZThvVWVlWDJhcFhiTzVtelFMdU5kci12TE9WN0NFRTdwUksySW95Xy0xN0NReTV4MEQyVy1ZeGFfMVp5YzdJaTZwcXo5ZVczM3Rr?oc=5",
+          "published": "Thu, 05 Nov 2026 09:41:43 GMT"
+        },
+        {
+          "title": "Persimmon Defies UK Housing Gloom with Rising Sales, Values",
+          "source": "Bloomberg.com",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeG85azNGOEd1VzZaMVFZYmlJdDNSQnhRTVlmV3V1ZUcyYUFFT3BPMFR0Nl96RkRzTkJ3ZG9lc3FSQkEzRldRcmZmcVVsOExIZHBjbEpxN3hRcUVLcDlSU0s2WTBTOTJVd3c3dGNVLTAtb184V25pWWJDLXNISVFjWEoxZzlRaUtRNzByQjhQajlWVGp0WDF6WlR3S0VTR3hwUW5Qa19MS0NaVkNoU1E?oc=5",
+          "published": "Thu, 12 Nov 2026 08:21:52 GMT"
+        },
+        {
+          "title": "Historic council housebuilding comeback to help families into secure homes",
+          "source": "GOV.UK",
+          "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZUxadlZCd0daR09rSEIwTFAzTExTQmNOWV9XWEVLQW5SYTgzQ2xEQ0pjdmdYdnlmRDNVcXE0ZHZhVHdEdTJhTlVvelpTSTd5RDROYmhoRjNNOHMyMXRnZXVmWVpmUUREQnpJbUJPb3djd3ZsbENicFNIU2s1X3ZhWXBvZDIycHY0R0ZHMElhWmhONTFsS0I4TFc1UVVQM2xySkZzUHh4WklIU2pkTFE?oc=5",
+          "published": "Mon, 24 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Dorset site manager wins top award for high quality housebuilding at Poundbury",
+          "source": "Dorset Echo",
+          "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPaEdDTmJOcEw1OG5IYlBEU0JUNk16YmtyRzBFRWswT2dJVi11RFpfcDlHaklySm5yT3M5b1VJbXE1cUxMTWNUeTgySkFFVl9UWURlV24yeFlvRFZCQ1RYSFAyeVF6RFhsbFJteXNobVZBaXh4Z0NjZmVWSUJ6cUZHcUJwaElZUFNHYkZOQlRtTXFnMG9Wb19z?oc=5",
+          "published": "Thu, 12 Nov 2026 05:00:00 GMT"
+        }
+      ]
+    },
+    "Industrial": {
+      "temperature": 20,
+      "headlineCount": 2,
+      "headlines": [
+        {
+          "title": "UK office, shop and warehouse construction plunges to 11-year low as costs soar",
+          "source": "The Guardian",
+          "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQclhGM3A3eXdzb0ZKeVEtaVQtRW4xYVNzR2Rnb0VHdFhObFptTlNhOEhvNlBTQUN2X2FMelgtdEVsbXlHMU93R29QRmJGRG5uR2JWbEJHUk9wdV9idXg1Qkc3cVFCT2VlOU56TEJJRnZ0QWtiNEQwQlFLT1RNTng2cVVsTHZLamFnQkFSVktFdFVzN2QxQWllNDVGOWE2cUp4?oc=5",
+          "published": "Tue, 21 Oct 2025 07:00:00 GMT"
+        },
+        {
+          "title": "UK's biggest EV battery factory construction starts in Somerset",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1wczQ5QWZTMFdGVUozS1JBY05BZFZXRGx1WmlxV1NqaDNfMWlEQy1CNzJoVUtTanc1Q1E2WXdkS1JQVFJ1SmJDWmk0ZkVleEQybzBnUVJoalRFN1N2?oc=5",
+          "published": "Tue, 01 Jul 2025 07:00:00 GMT"
+        }
+      ]
+    },
+    "Commercial": {
+      "temperature": 3,
+      "headlineCount": 7,
+      "headlines": [
+        {
+          "title": "UK office construction forecast: output to fall in 2026 despite rising rents",
+          "source": "BE News",
+          "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTFAxbFZ6YThrTmdTdDRVQmRWZjNwUDFzZS1UZXlvTEVyWDVUeHF3dTZ4c1QzSHJya19sNnBrRFZCaFRMMU9vODVvVHNCb1Bxbk8tVUl6Q08zdEZRMDdIUWxPUVBlQmJIRURVWTc3cnlEYjNBUnRJMXpZOEF1MWxsdw?oc=5",
+          "published": "Mon, 28 Sep 2026 20:15:59 GMT"
+        },
+        {
+          "title": "Is UK commercial construction experiencing a comeback?",
+          "source": "Premier Construction News",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWEtLZEJVMVROQTd4TUpYTHl1SmppWmxSZTg5RW5hUU1mRjZRU2FjYzNjMnNHVVdJSnY5Ri13U0w3b00zM0ZlOWlxVV9qczJkMzVIMUkwdllTT3BIWEdYWTZyZURSeGF6c253M0Nydm1iWEJhMGIwM3FrNHl5VTJBWVNXcVBoeFU0YkJTMkNFY3N5aktaYlRaSmV0N1U5RnZJQUM4?oc=5",
+          "published": "Sun, 07 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "News | UK office construction starts fall to a record low as development focuses on London",
+          "source": "CoStar",
+          "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQR0xRNklPLUxhS1ZWU1J0MldTRDVmWTFwOWkzczVjUlNjUHBwM0ZqXy1qVDgyaHE4ZFJtLUVURTV6aHNjQkdKUjhWWDVhczNfUlJtUDdOalJsd1RoZ3pOS2o5dmJXalBtWWlra1E1Tk1DZUxBZ2prUGRmTTRuMXpZbVNTaUQ4MlUyQW1iTGF2bmZsM3FxRWxZcGtlNWlQQmFsektQN2VMUVFQdXl5NTJwVi1jenhHYTMwNXhxemhmNU0za1k?oc=5",
+          "published": "Mon, 27 Jul 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Office construction output falls in 2025",
+          "source": "Construction Index",
+          "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPaG1uNGJ3WmF6Y3B2eFJRVFpYVnJtMFJwdUpOS0MtWC1xTlFlRTlkUldIMFVJdEt0azFsZGVNNWhZV1N2eWxyNDJTeWlCdUs0cTVaNTNEVTdrSjdCNFlvbElqeTNNdUlsQkh5NVBVb3BoQ2ExSFRnRU1VYWdtQlBYeTkyTjVXcEIybThBelc1azZ1b1XSAZsBQVVfeXFMT19CTkR2aE9mejF0elE3cWpjaGhyNTN6Nm92NzFHYW13OUpaMmxsV0l4VXNVQ1oybW92UkdSLVR1N2JBWmpqTjZndVdVZmFLdmRhbi1wcnF0SjQyd1lIMmhyTjdKM1JJYnFWSXNPcE1pQWZ4akFETmhpSWdONVRWRjl2RGpFTHRVZ3NjMGZMdmR4ckpnT2RXUVQ3UWs?oc=5",
+          "published": "Tue, 18 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "8 ways AI can be used in commercial construction to reduce disputes and litigation",
+          "source": "Planning, Building & Construction Today",
+          "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQZ1otRFNTN3lHWkxtLXZOVXhwVS1FUkdjQUVZT3JQeEp3OV9DWUtlWDFKUFdqRXZDbVA3QVo2LWVYWU5sbTRiLUJqemlMZ3FtQWtCaVoxeWJGMU45VzlaNGZyWS16OU5OdlFCLVpiaHQzWnRKWmp6ZWh1cTE5ZmpvMGY5QkRXamtVNkktT3p3Rmd3TnFlZGdXUzlnSVZycDlJdUlPTUJscTRsUWs1OG5McE5SdTdBcGZFVmxWYXBmUVYwNlVPMnJUbWNkd2lwdDVtRG5IVA?oc=5",
+          "published": "Mon, 21 Sep 2026 07:00:00 GMT"
+        },
+        {
+          "title": "London office construction hits 10-year low in blow to Starmer",
+          "source": "The Telegraph",
+          "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPeVpzUEFnNE9PYlllTjl1eU5oOGtqMTM5d3RqV1pyM09Md3BvZ2Raa2JkRGZEeks2ZnI3Z1A0anNaT0JDdlR6aHlraFVmY2trOUNsQTZkb2pNSXk1WHVQV2g5d1ZVOVNDNzA2ZGpxRUR1eXVkYXVxeXhzSzNLQmdZcXllYTZfN0tSNE5MYm5rR2lwN3hXSjZHa3FDTEppNGhyVmJzUVNNcFRiMDBO?oc=5",
+          "published": "Wed, 29 Apr 2026 07:00:00 GMT"
+        }
+      ]
+    },
+    "Leisure": {
+      "temperature": 20,
+      "headlineCount": 5,
+      "headlines": [
+        {
+          "title": "Construction work begins on long-awaited arena",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE01M0pvMlNONGpnV2J3MkxlLVBhT3I4VldvVU12WG1yODREN2w0OUo2OTZ1d2JscHJQYUdRTXpRVkphZzFma3ZndnU0NnNtb0tVTEVaVnR6a1F6cHBn?oc=5",
+          "published": "Thu, 22 Jan 2026 08:00:00 GMT"
+        },
+        {
+          "title": "Major new Trafalgar Square hotel offering spectacular views across London reaches construction milestone",
+          "source": "Whitbread PLC",
+          "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPQXhqRUY1dWdJb3FNLWdSM0R5SzBfbXA1SDZ2MnY2WjlBVWM0RV9nNlRSeG5ZRjllcFpoU1V2dmdsZnpNSXQxNXlGZF9jM3RIT01YRGQ1LXktNDlXWVJtWGlGdTRGZHM2NTg0M0lNZGFIQWRTRkgyc001RGpLT2VMMFEtOWt0czFqTHlFeW4tNldySEJzb0ExRjYzeGNtY1dxSUR3NVlIbDNTV0F0MTlzZm5pVDB4Yjh6NDBxSVhrRG9YOFpSdEI4eUhvQXlJQQ?oc=5",
+          "published": "Tue, 10 Nov 2026 09:13:11 GMT"
+        },
+        {
+          "title": "EFL club begin construction of new stand with stadium a building site amid plans to make it Champions League-worthy",
+          "source": "The Sun",
+          "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTi15dzcxY1Z5N0p0dy1pMFJ2VDRXVlZTenpvMjlIVDUyejFvdjlJZ0owMjFxOW9CS0Y1eTBvbGxfMmhqTm9meFEtZzVZUVo0WEVkeDFfdkUtNFhYb3EyRVRiVE04ZkFnUE5yNDlGUmZyaWRwVjNEU3VuWmRqMWt6dkFmOVJxWmRLZ2dTQktpb1JHTFoyaFE?oc=5",
+          "published": "Tue, 10 Feb 2026 08:00:00 GMT"
+        },
+        {
+          "title": "GMI Construction Group starts work on Huddersfield\u2019s George Hotel redevelopment",
+          "source": "GMI Construction Group",
+          "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOQ2pYQWQ1dVVQMHhlVXNWSHQ1VTN5RWRCVGZfQ2lLZmZGdndva3lGNHJMY1VtT3UyM2JmakNoMUxoZTdMbUozU2NlSEx3RC1NZlI2ZFZFVmJCTmtrQ0NtRnJIaGxvSXVqaVlYRVFmY3l0dW9PamNZRER1dVJyc05keFBCTE8yd19KLUJJM0Y5WG5sTlpIYnhWZlQyeEZpVHl6TDNzMA?oc=5",
+          "published": "Fri, 20 Feb 2026 11:38:52 GMT"
+        },
+        {
+          "title": "Prefabricated construction: Can Manchester United unite the UK construction industry?",
+          "source": "Planning, Building & Construction Today",
+          "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOU1A1eDVIZG5GOXpRN01VNWJwRkx6ZTk0WG5lWDl0aUhOUU1haGs4ejdYd1JscFVuWndBcm1wdl90SWJVcUZsODJfMFBGYVhNeDVlcmx1TXJJTFR0LUJucWw4NTJlTmVUUDlZbnVDeGNjQzV0dkF5ejZNcWJLcmVBY3BuMUUxZTFfUkZEYjBJdUEtODBSYjBlOW8xWEt2NGlwbEF0bjJxQmsweDk2MnRWVGQzVWNaczZqcmJWQ1o5TjlxelJLYkJwX1dKY0s?oc=5",
+          "published": "Fri, 27 Jun 2025 07:00:00 GMT"
+        }
+      ]
+    },
+    "Healthcare": {
+      "temperature": 30,
+      "headlineCount": 6,
+      "headlines": [
+        {
+          "title": "Berwick Community Hospital construction work to be redone",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFA4ZkE4MkJsb1lFcDJqekhpZ2VfVTQtWWVTWDJVeGxfYTE1dkxXcjduMVpKZGNwcFRtUmRiOEc1Qy1yclRIejRBVFJZUjZCMnQydldfMHAzaThYYXZZV0E?oc=5",
+          "published": "Wed, 14 Oct 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Outpatient centre at forefront of new hospital construction, creating jobs and kickstarting regeneration in North Manchester",
+          "source": "Manchester University NHS Foundation Trust",
+          "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQZmEzbzFmS3lHU29DcFR2VE5zZVRueVJxWXJYTEFndEptS2Z5cS0xMUFtWG9mSDBVNkJHU2hTUU1aeTZYOHF0d0NmdV9RWHk0cF9ad0lNOUlDbmFFX21aeFRiQllqbFRSY05rZnpWME9TdWprN3NZS09paXdVNUtSb2gzYzdSak5NSXgxMWg5NVlmX1FDUzZIUWxnTUxlbm4xS25mRkdmVjNvZzlfMnJ1Nmt5dEM1aFF2MUpybFNLWmwyYXhEV0pXaGZyaWJCdFQ4VmE3Qkk2UGlURW4yM0VTUVdCd1F0TlpoRlE?oc=5",
+          "published": "Wed, 05 Aug 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Contract signed with construction giant to build Jersey's new hospital | ITV News",
+          "source": "ITVX",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNbXlyaWhHM3piMllvOHNwQUJHdWpYdDBReUlOODg0RjVld2ZiS3NybWttMlMzZEh3UHJxUXpDX2J5VV8zVDJUQ1ZSSl90X2Jma1VkX2dGd0NNTDNGWjdTOVZCOU9GRUNDanZpc0V2UmF2T2g2MzI4VWVfamFfN3VoSTByTkF0ak92N0R5NWhIVUhIWXp0SHRkU0RLLUMtX2ZfVHoxVy1wTjdfNC14QVY4OW9QRQ?oc=5",
+          "published": "Fri, 05 Jun 2026 07:00:00 GMT"
+        },
+        {
+          "title": "New Hospital Programme: 10 contractor pairings confirmed for \u00a314bn first wave",
+          "source": "Building Better Healthcare",
+          "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYmJOLUpRNFplMFhEdmVhNkFHUGw2LU1mYTByTVd4TGVfWnFLZ1VwbEVfTnpDNFBJNXVwQWxyeURRSFJhZDNycUR1LXZVRy12T0pVNzN3dlpuMEoxQkk2U1Z5eUU2VlFpM3lMVHBTZUZvMG14a3dySy1URE1yTlpfb081eDd2YnRtMTFfODZ2d1lqODNwcjRjQndfNG4?oc=5",
+          "published": "Fri, 22 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Hospital 2.0: Industrialising healthcare construction",
+          "source": "Construction Management Magazine",
+          "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbDhTc1NfU2ZzMlVqeWxvODNRbnVEZlhxc0ZsTU9QZEQ5RVRxV3RJSG9RSGdMazUwc1hXQWdkRDZCbXFzbnF5endYZ01fMy1BSk9UNHVhblg1RVpnRElrcW43OVVicUJTX2ZrM0l4R19TcnpmY0F2WlhmZTZoTnZURnk0ejRhVVZNQmxZUQ?oc=5",
+          "published": "Mon, 02 Mar 2026 08:00:00 GMT"
+        },
+        {
+          "title": "How the New Hospital Programme could reshape the delivery of major infrastructure",
+          "source": "Willmott Dixon",
+          "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOLTV3UHNkWDh0d0VWNEdGRG01aXd0aWNDTFNNbzNOS1JISHJNb0M2Z1VsUFY1bC1fYmRPT0ZhcnpsLXRJSWFtN2pZZldoQldUaWlrSlhIY3YzM1UtNTRoNlQ3RXhqTGllRVNyal9aV1JZTzFhN29pdnBUOWYwOHlPTnJpbUJPRzNyNWRza3NTcDhORVVSMkViQ0RTcjNDWU04V18wTFlJZS1weGxyOEtoNkRqbDlWZndycjNJWk5B?oc=5",
+          "published": "Mon, 23 Mar 2026 21:52:29 GMT"
+        }
+      ]
+    },
+    "Education": {
+      "temperature": 20,
+      "headlineCount": 2,
+      "headlines": [
+        {
+          "title": "Education Minister announces school building projects to progress to construction stage",
+          "source": "Department of Education NI",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRGFvUHVMejZmM2dNT0M4aEZtM2lJZXVGRmlCVURUMFYtRVBTd0NGUFFuZXVfdUc1VzkyWDB1Y2cwdG5lZUlENFh4N0hBSVdkWUZGNUxWYzRoV1NINnBpMDdyeTJUM3o0eDVHN0p1a29Gb1pjQXZucTk1bUZhZ0VNTG5IdWpnWlZmOFJvZ1duVmVDNUtQdjNxVDJTYUNUaE9kclBONl9WMmRaRW54R0o5eWozcDViZm5Hbnc?oc=5",
+          "published": "Wed, 29 Apr 2026 07:00:00 GMT"
+        },
+        {
+          "title": "School construction contracts to mandate apprenticeships",
+          "source": "Construction News",
+          "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNOWMtWmF2RnE0bFFIc0hTV1JOOWkySTFRTEV6XzJiWXhhX29LSXBlV2diM0UzZTI4QnZnWnlESVFsdjlzeHEyRUlrN21vTWczVVJEbVRLajl1ZktGQ01EX0V6SHVpT0VGUUlMeGRhdU1yczg0N2pYRm14TUlPT3lxeVFjUmZQaVNLVDNfbmNXNEdNdjlDaE02Mi1GMTJuX3o5eTJMWlVWR1RXT2xQdkNMQkVYYw?oc=5",
+          "published": "Tue, 10 Feb 2026 08:00:00 GMT"
+        }
+      ]
+    },
+    "Infrastructure": {
+      "temperature": 20,
+      "headlineCount": 14,
+      "headlines": [
+        {
+          "title": "Government to review cost of UK rail construction",
+          "source": "New Civil Engineer",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNWk41ZkpHMG8tWV9wLTZzdWlraVByU0FxV2FUYU9rd3M0OUhLM1BUZS0tWldfUXJrZDY4WWFNNk1kR2RWRjhoeG5XcXZRUHJPcEdWNE1kR2ZKNE9zYUw3WHNYbFNpanZ6LUQwNGFHbFpTU0g1UHZwbjlxdWQ0VE5NSzdNT2ZEeTB3dFBhWjRkeHlwd05MQ09DNXA3SHZGbFJsbVgw?oc=5",
+          "published": "Mon, 09 Nov 2026 16:58:49 GMT"
+        },
+        {
+          "title": "Transport Secretary tasks HS2 with reducing construction time and cost to taxpayers",
+          "source": "GOV.UK",
+          "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVXE3MkZnVmlwRmM2Wm5jcmt2MGFua0E0SXN4M0p0MDBOOVhVd09rQkFmaWoyMzZoQm9aM1hDOUx3TTEyejY5aTNxSE9uVHBvMEN5d2Jrc2w4RDNsZVRIRDhGV3RVT2FlWEx6M0NzUHZlOWtWRktQc1NDMUFVZmpnY3JnU0dRUUxVaHdzd284bmRlbFJDaU1nYXVhdTFVLUhrVlJBeUFlT2RfYmJySTQ5cGVMZ0RQNmFKWHc?oc=5",
+          "published": "Mon, 23 Mar 2026 07:00:00 GMT"
+        },
+        {
+          "title": "HS2 failings blamed on high-speed focus and political pressure",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1INXVZLUU0ZDVKN2plNi1nNXhSN0lTYzlYa1oyNl9nNWVrZENBWTMtdDduTzFSOFJYVlhLN2g0MHBGOEtQOG5RWFBFcVpuVkY4Rk1ndlp3RzBzUQ?oc=5",
+          "published": "Mon, 18 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "HS2 to cost \u00a3102.7bn: UK government resets HS2 with new timeline and lower speed trains",
+          "source": "Open Access Government",
+          "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOWExDbFV4UmJ6UmN6bUswelFIRUJEc0JERzZYSVpuTlF2Y0NQOFJkTFdYVVQyM052YmU3ZzJhTzNzOUI4Qi1NSkhkZ19oRFlmTEZEX0VQbjYxakpiMTdLd0hfRW03X2N0aVM1eDI3eEwybVFGeF9VWm8zbTBSdmJlbHJmdWVzUEtveGhCdkFwMWNxYmwyUTduOVNDVy1lX3V3THhnalRJMlpNaFVrOVhXa1dSRThQVTZKWmpSb0JuOGl6bHpKMktTMUtR?oc=5",
+          "published": "Wed, 20 May 2026 07:00:00 GMT"
+        },
+        {
+          "title": "HS2 trains could run slower than planned to save money",
+          "source": "BBC",
+          "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1BckQzZjdCTDIxV2xvejRkaXdKMmFkZnF4LXBpYVJMdERCN3BzTU51bzNzYUVwRVZsZUVJSElveHdQaUtYR0c5RnNwMnJNVHZhVzJvUlFmU1o5bE1n?oc=5",
+          "published": "Mon, 23 Mar 2026 07:00:00 GMT"
+        },
+        {
+          "title": "Transport Secretary ends 'era of neglect' on HS2 with thorough reset",
+          "source": "GOV.UK",
+          "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaTdlQ1ZneE9HT3ZfWFFSZkRCN1pINFVYNmJqU3E2YVZGZXdIMnJQNHAwVHEwUzJfZEJ0bENqTkhiZjRxVlh3ZTJFal92LVJaaUNGMFA1a0ljaXl3OG0xSFIySTZ2bUVmQkhZdlRzQ1lqS2JiRVpGZlh3RkozdzVBdE9ZTV9YUmpVaEkta0M3ekZmaUVFdU5sa0c1dVRRUFJCWTQ4?oc=5",
+          "published": "Tue, 19 May 2026 07:00:00 GMT"
+        }
+      ]
+    }
+  },
+  "words": [
+    {
+      "x": "Hospital",
+      "value": 6,
+      "category": "Healthcare"
+    },
+    {
+      "x": "Office",
+      "value": 5,
+      "category": "Commercial"
+    },
+    {
+      "x": "Starts",
+      "value": 4,
+      "category": "Residential"
+    },
+    {
+      "x": "Housebuilding",
+      "value": 4,
+      "category": "Residential"
+    },
+    {
+      "x": "London",
+      "value": 3,
+      "category": "Commercial"
+    },
+    {
+      "x": "Work",
+      "value": 3,
+      "category": "Leisure"
+    },
+    {
+      "x": "Cost",
+      "value": 3,
+      "category": "Infrastructure"
+    },
+    {
+      "x": "Housing",
+      "value": 2,
+      "category": "Residential"
+    },
+    {
+      "x": "Rising",
+      "value": 2,
+      "category": "Residential"
+    },
+    {
+      "x": "Comeback",
+      "value": 2,
+      "category": "Residential"
+    },
+    {
+      "x": "Site",
+      "value": 2,
+      "category": "Residential"
+    },
+    {
+      "x": "High",
+      "value": 2,
+      "category": "Residential"
+    },
+    {
+      "x": "Output",
+      "value": 2,
+      "category": "Commercial"
+    },
+    {
+      "x": "Fall",
+      "value": 2,
+      "category": "Commercial"
+    },
+    {
+      "x": "Commercial",
+      "value": 2,
+      "category": "Commercial"
+    },
+    {
+      "x": "Major",
+      "value": 2,
+      "category": "Leisure"
+    },
+    {
+      "x": "Hotel",
+      "value": 2,
+      "category": "Leisure"
+    },
+    {
+      "x": "Building",
+      "value": 2,
+      "category": "Leisure"
+    },
+    {
+      "x": "Manchester",
+      "value": 2,
+      "category": "Leisure"
+    },
+    {
+      "x": "Programme",
+      "value": 2,
+      "category": "Healthcare"
+    },
+    {
+      "x": "School",
+      "value": 2,
+      "category": "Education"
+    },
+    {
+      "x": "Government",
+      "value": 2,
+      "category": "Infrastructure"
+    },
+    {
+      "x": "Transport",
+      "value": 2,
+      "category": "Infrastructure"
+    },
+    {
+      "x": "Secretary",
+      "value": 2,
+      "category": "Infrastructure"
+    },
+    {
+      "x": "Speed",
+      "value": 2,
+      "category": "Infrastructure"
+    },
+    {
+      "x": "Trains",
+      "value": 2,
+      "category": "Infrastructure"
+    },
+    {
+      "x": "Latest",
+      "value": 1,
+      "category": "Residential"
+    },
+    {
+      "x": "Completions",
+      "value": 1,
+      "category": "Residential"
+    },
+    {
+      "x": "Figures",
+      "value": 1,
+      "category": "Residential"
+    },
+    {
+      "x": "Tduk",
+      "value": 1,
+      "category": "Residential"
+    }
+  ]
+}

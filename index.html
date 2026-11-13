@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>The Construction Industry Thermometer</title>
+    <link rel="stylesheet" href="style.css?v=9">
+</head>
+<body>
+
+<nav>
+    <ul>
+        <li><a href="index.html">Home</a></li>
+        <li><a href="#word-cloud">Words</a></li>
+    </ul>
+</nav>
+<img src="logo-clear.png" alt="Hot Topical Reading, Cool Solutions" class="logo">
+
+<div class="main-container">
+    <h1>The Construction Industry Thermometer</h1>
+    <p class="intro">A reading of seven construction sectors from recent public headlines.</p>
+    <p class="credit">4th place at Project:Hack 20. I worked on this dashboard alone to present the data.</p>
+    <div class="search-container">
+        <input list="temperature-terms" class="search-input" placeholder="Search..." id="search-input">
+        <datalist id="temperature-terms">
+            <option value="Residential">
+            <option value="Industrial">
+            <option value="Commercial">
+            <option value="Leisure">
+            <option value="Healthcare">
+            <option value="Education">
+            <option value="Infrastructure">
+        </datalist>
+        <button class="search-button">Search</button>
+    </div>
+    <div id="sector-row" class="sector-row"></div>
+    <div class="thermometer-container">
+        <div id="emojiContainer" class="emoji-container"></div>
+        <div class="thermometer">
+            <div class="thermometer-fill" id="thermometerFill"></div>
+        </div>
+        <div class="temperature-label" id="temperatureLabel">0°C</div>
+    </div>
+    <p id="reading-note" class="reading-note"></p>
+    <p id="reading-meta" class="reading-meta"></p>
+    <ul id="headlines" class="headlines"></ul>
+    <h2 id="word-cloud">Words in the headlines</h2>
+    <div id="word-cloud-words" class="word-cloud"></div>
+</div>
+
+<script src="script.js?v=4"></script>
+</body>
+</html>
+
+
