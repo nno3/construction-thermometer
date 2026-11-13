@@ -2,7 +2,7 @@
 
 A dashboard of seven construction sectors. Each temperature is the average tone of recent public headlines. −40°C is the most downbeat mix and 80°C is the most upbeat.
 
-We placed 4th at Project:Hack 20, run by Projecting Success, for this project. I worked on this dashboard alone to present the data.
+We placed 4th at Project:Hack 20, run by Projecting Success, for this project. I worked on this dashboard to present the data.
 
 Live page: https://nno3.github.io/construction-thermometer/
 
